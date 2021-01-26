@@ -1,3 +1,5 @@
+[可参考文章](https://woaifanqiang.com/post/2020%E5%B9%B4%E6%9C%80%E6%96%B0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84shadowsocks%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC/)
+
 ## ss-plugins.sh (注意：如果运行脚本出现意外报错，请执行 ./ss-plugins.sh script 升级脚本。)
 
 #### 下载安装:
